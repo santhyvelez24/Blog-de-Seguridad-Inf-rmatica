@@ -49,7 +49,13 @@ to modifity the database
 
 Conslusion
 
-
+Injection sql is a method that many
+programmers or people used this code
+to extract information from the 
+database also to make queries in the
+table of the base, often use these 
+instructions of modifity the security
+code the database
 
 
 
