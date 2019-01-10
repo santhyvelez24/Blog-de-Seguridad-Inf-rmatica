@@ -39,6 +39,9 @@ and modiy the desired paramenters.#
 
 . [[r#]] link:https://www.google.com/search?client=ubuntu&hs=8IC&channel=fs&biw=1293&bih=534&tbm=isch&sa=1&ei=07E1XM3TBOXc5gKfnoO4Bg&q=inyeccion+sql&oq=inyeccion+s&gs_l=img.3.4.0l10.3886.26542..31005...8.0..0.164.1840.5j11......0....1..gws-wiz-img.....0..0i67j0i10j0i10i19j0i19j0i5i30i19.vewMrxLm-P4#imgrc=c5_X77lzCfUV9M:[inyección SAL].
 
+inyección SQL
+imagen :: injeccionsql.png [injeccionsql]
+
 *Description of Image*
 
 [blue]#The previous image reprensent a web
