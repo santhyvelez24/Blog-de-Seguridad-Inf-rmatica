@@ -1,3 +1,12 @@
+function cool(x){
+ /*please use SHORT commenst in english when neccesary.
+ you must explain your code in the document*/
+ int y;
+ y= x+1;
+ return y;
+ //And remember, do Not exceed 8 lineas ;)
+ }
+
 
 path/fluidattacks/file
 
