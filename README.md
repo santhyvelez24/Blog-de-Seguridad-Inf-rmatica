@@ -82,6 +82,3 @@ I have six months of experience in the area of system,
 I have several certifications in the sena
 and my tastes everything realted to gastronomy, 
 studying and doind sports
-
-
-
