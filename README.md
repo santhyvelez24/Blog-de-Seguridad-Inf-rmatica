@@ -68,3 +68,20 @@ database also to make queries in the
 table of the base, often use these 
 instructions of modifity the security
 code the database#
+
+first name:
+Santiago 
+
+Surname:
+Isaza Veléz
+
+Desription:
+I have graduated as technnician in
+systems of the instiution for work Cesde,
+I have six months of experience in the area of system, 
+I have several certifications in the sena
+and my tastes everything realted to gastronomy, 
+studying and doind sports
+
+
+
